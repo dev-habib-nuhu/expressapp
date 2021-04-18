@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Basic express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0uph1x/expressapp.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d0uph1x/expressapp/issues"
+  },
+  "homepage": "https://github.com/d0uph1x/expressapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
